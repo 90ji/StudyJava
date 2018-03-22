@@ -2,6 +2,7 @@ package com.qinxiaozhou.study.java8.test.test.model;
 
 import com.qinxiaozhou.study.java8.chap4.Dish;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -21,7 +22,7 @@ public class A {
                 new Dish(" prawns", false, 300, Dish.Type.FISH),
                 new Dish(" salmon", false, 450, Dish.Type.FISH));
 
-
+new ArrayList<>();
 
 
     }
